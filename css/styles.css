@@ -28,7 +28,8 @@ h3{
     font-family: 'Montserrat', sans-serif;
     color:#11999E;
 }
-
+hr{
+border-color:#FFC93C;}
 
 .top-cloud{
     position:absolute;
